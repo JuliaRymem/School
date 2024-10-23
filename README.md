@@ -1,2 +1,2 @@
-# portfolio
-My portfolio
+# school
+My projects in school
